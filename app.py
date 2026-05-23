@@ -494,6 +494,6 @@ st.markdown("""
 <div style="text-align: center; color: #2a2a3a; font-size: 0.75rem;
             letter-spacing: 2px; text-transform: uppercase; padding: 1rem 0;
             border-top: 1px solid #1a1a24;">
-    CineMatch · Proyek Data Mining · SVD Algorithm · MovieLens 1M Dataset
+    23.11.5806 · Proyek Data Mining · SVD Algorithm · MovieLens 1M Dataset · Andreasndrn
 </div>
 """, unsafe_allow_html=True)
