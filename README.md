@@ -52,7 +52,7 @@ Sistem menerima input berupa film-film yang disukai pengguna, kemudian mempredik
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/cinematch.git
+git clone https://github.com/andreas-world/RekomendasiFilm.git
 cd cinematch
 ```
 
