@@ -1,4 +1,4 @@
-# 🎬 CineMatch — Sistem Rekomendasi Film berbasis SVD
+# 🎬 Pen Nonton — Sistem Rekomendasi Film berbasis SVD
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?style=flat-square&logo=streamlit)
