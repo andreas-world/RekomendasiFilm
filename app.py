@@ -7,7 +7,7 @@ import os
 # KONFIGURASI HALAMAN
 # ══════════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="CineMatch — Rekomendasi Film",
+    page_title="Pen Nonton — Rekomendasi Film",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -335,7 +335,7 @@ def rating_to_stars(score):
 # ══════════════════════════════════════════════════════════════
 
 # --- Header ---
-st.markdown('<p class="hero-title">CINEMATCH</p>', unsafe_allow_html=True)
+st.markdown('<p class="hero-title">PEN NONTON</p>', unsafe_allow_html=True)
 st.markdown('<p class="hero-sub">Sistem Rekomendasi Film Personal · Powered by SVD</p>', unsafe_allow_html=True)
 st.markdown('<div class="hero-divider"></div>', unsafe_allow_html=True)
 
@@ -346,6 +346,7 @@ if not model_loaded:
 
     Pastikan file-file berikut ada di folder yang sama dengan `app.py`:
     - `svd_model.pkl`
+    
     - `ratings_clean.csv`
     - `movies_clean.csv`
 
