@@ -5,7 +5,7 @@
 ![Algorithm](https://img.shields.io/badge/Algorithm-SVD-orange?style=flat-square)
 ![Dataset](https://img.shields.io/badge/Dataset-MovieLens%201M-green?style=flat-square)
 
-**CineMatch** adalah sistem rekomendasi film personal yang dibangun menggunakan algoritma **SVD (Singular Value Decomposition)** dengan dataset **MovieLens 1M**. Proyek ini merupakan implementasi *Collaborative Filtering* berbasis matrix factorization yang di-deploy sebagai web aplikasi interaktif menggunakan Streamlit.
+**Pen Nonton** adalah sistem rekomendasi film personal yang dibangun menggunakan algoritma **SVD (Singular Value Decomposition)** dengan dataset **MovieLens 1M**. Proyek ini merupakan implementasi *Collaborative Filtering* berbasis matrix factorization yang di-deploy sebagai web aplikasi interaktif menggunakan Streamlit.
 
 ---
 
@@ -53,7 +53,7 @@ Sistem menerima input berupa film-film yang disukai pengguna, kemudian mempredik
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/andreas-world/RekomendasiFilm.git
-cd cinematch
+cd RekomendasiFIlm
 ```
 
 ### 2. Install Dependencies
@@ -81,7 +81,7 @@ Buka browser di `http://localhost:8501`
 ## 📁 Struktur Folder
 
 ```
-cinematch/
+RekomendasiFilm/
 ├── app.py                  # Web app Streamlit
 ├── UTS_ProyekDM.ipynb      # Notebook Colab (EDA + Training)
 ├── requirements.txt        # Dependencies
