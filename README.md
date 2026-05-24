@@ -132,12 +132,12 @@ Data Collection → EDA → Preprocessing → Modelling (SVD) → Evaluasi → D
 
 | Info | Detail |
 |---|---|
-| Nama | *(Nama kamu)* |
-| NIM | *(NIM kamu)* |
+| Nama | Andreas Andrianto|
+| NIM | 23.11.5806 |
 | Prodi | S1 Informatika |
 | Universitas | Universitas AMIKOM Yogyakarta |
 | Mata Kuliah | Proyek Data Mining (ST167) |
-| Dosen | Theopilus Bayu Sasongko, S.Kom.,M.Eng · Anna Baita, M.Kom · Kusnawi, S.Kom, M.Eng |
+| Dosen |Kusnawi, S.Kom, M.Eng |
 
 ---
 
